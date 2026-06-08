@@ -2,7 +2,7 @@
 <!--              VANAPALLI MADHAN MOHAN - README             -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=Vanapalli%20Madhan%Mohan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=180&section=header&text=Vanapalli%20Madhan%20Mohan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00E8FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Firmware+Developer+%7C+Automation+Engineer;VLSI+%7C+ASIC+Physical+Design+%7C+RF+Systems;6G+%7C+THz+Communication+Researcher;Building+Reliable+Systems+with+Precision" />
